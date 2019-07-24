@@ -1,4 +1,6 @@
-﻿using System;
+﻿old도 수정한당 
+트런크는 어떻게 테스트하지
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

@@ -1,6 +1,9 @@
 ﻿테스트 소스 수정한다
 나도 소스 수정했당 git_tset
-너도 소스 수정해봐랑
+수정해봐랑 -- 삭제후 또 추가한다 git_tset
+나도또 수정한다.....
+너는 어떻게 할거냐???
+삭제해봐랑
 using System;
 
 using System.Collections.Generic;
